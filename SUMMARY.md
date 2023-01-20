@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [🌀欢迎使用ヾ(≧▽≦\*)o](README.md)
